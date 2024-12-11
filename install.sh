@@ -31,7 +31,7 @@ if [ ! -f "$NEXUS_HOME/prover-id" ]; then
     echo "No prover-id file found. Creating new prover-id..."
 
     # Menetapkan Prover ID secara otomatis
-    PROVER_ID="wgxzirgAovPMXfiz9NfER4DbRaC2"
+    PROVER_ID="N6fnuD9vv0OIday4X8njm8QL0nD2"
     echo "Automatically using Prover ID: $PROVER_ID"
     
     # Menyimpan Prover ID ke file prover-id
